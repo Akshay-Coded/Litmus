@@ -1,4 +1,15 @@
-# 🧪 Litmus
+<p align="center">
+  <img src="assets/banner.svg" alt="Litmus — molecular property prediction" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://litmus-prop.streamlit.app"><img src="https://img.shields.io/badge/demo-live-0089AB?style=flat-square" alt="Live demo" /></a>
+  <img src="https://img.shields.io/badge/python-3.11%2B-blue?style=flat-square" alt="Python 3.11+" />
+  <img src="https://img.shields.io/badge/license-MIT-B8842A?style=flat-square" alt="MIT License" />
+  <img src="https://img.shields.io/badge/built%20with-Streamlit-B23A34?style=flat-square" alt="Built with Streamlit" />
+</p>
+
+<h3 align="center">🔗 <a href="https://litmus-prop.streamlit.app">Try the live demo →</a></h3>
 
 Two graph neural networks — solubility and Tox21 toxicity — evaluated the way a chemist would insist on, and honest about where they break.
 
@@ -7,6 +18,19 @@ Two graph neural networks — solubility and Tox21 toxicity — evaluated the wa
 | **R² 0.808** · RMSE 0.935 · scaffold-split test, n=111 | **Mean AUC 0.765** · mean AUPRC 0.361 · 12 assays, n=781 |
 
 ![Parity plot: predicted vs true log solubility](results/esol_error_analysis/01_parity_plot.png)
+
+---
+
+## Contents
+
+- [What it does](#what-it-does)
+- [Why the evaluation is trustworthy](#why-the-evaluation-is-trustworthy)
+- [Results](#results)
+- [Model & method](#model--method)
+- [Limitations / domain of applicability](#limitations--domain-of-applicability)
+- [Run it](#run-it)
+- [What I'd do next](#what-id-do-next)
+- [Project layout](#project-layout)
 
 ---
 
@@ -96,6 +120,8 @@ Solubility runs a 5-seed ensemble (mean combination beat every individual member
 ---
 
 ## Run it
+
+Or just use the **[live demo](https://litmus-prop.streamlit.app)** — no setup required. To run locally:
 
 ```bash
 # 1. Install dependencies
