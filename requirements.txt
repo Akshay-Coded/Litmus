@@ -5,6 +5,10 @@ matplotlib
 seaborn
 
 # Core Machine Learning & Deep Learning
+# CPU-only wheels -- deploy targets (Streamlit Community Cloud etc.) have no
+# GPU, and the default PyPI torch wheel bundles CUDA, which bloats build
+# time/size for no benefit here.
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch
 torch-geometric
 numpy
