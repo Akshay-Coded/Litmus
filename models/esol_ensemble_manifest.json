@@ -1,0 +1,32 @@
+[
+  {
+    "seed": 42,
+    "model_path": "models/esol_gnn_seed1.pt",
+    "pooling": "mean",
+    "best_val_loss": 0.2114994376897812
+  },
+  {
+    "seed": 123,
+    "model_path": "models/esol_gnn_seed2.pt",
+    "pooling": "mean",
+    "best_val_loss": 0.2059818714593364
+  },
+  {
+    "seed": 456,
+    "model_path": "models/esol_gnn_seed3.pt",
+    "pooling": "mean",
+    "best_val_loss": 0.21900343736716077
+  },
+  {
+    "seed": 789,
+    "model_path": "models/esol_gnn_seed4.pt",
+    "pooling": "mean",
+    "best_val_loss": 0.18345591043476508
+  },
+  {
+    "seed": 101112,
+    "model_path": "models/esol_gnn_seed5.pt",
+    "pooling": "mean",
+    "best_val_loss": 0.21104283525352985
+  }
+]

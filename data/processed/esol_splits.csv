@@ -1,0 +1,1129 @@
+smiles,split
+OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O ,test
+Cc1occc1C(=O)Nc2ccccc2,test
+CC(C)=CCCC(C)=CC(=O),train
+c1ccc2c(c1)ccc3c2ccc4c5ccccc5ccc43,val
+c1ccsc1,val
+c2ccc1scnc1c2 ,train
+Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl,train
+CC12CCC3C(CCc4cc(O)ccc34)C2CCC1O,train
+ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl,val
+COc5cc4OCC3Oc2c1CC(Oc1ccc2C(=O)C3c4cc5OC)C(C)=C ,val
+O=C1CCCN1,test
+Clc1ccc2ccccc2c1,train
+CCCC=C,train
+CCC1(C(=O)NCNC1=O)c2ccccc2,val
+CCCCCCCCCCCCCC,train
+CC(C)Cl,train
+CCC(C)CO,train
+N#Cc1ccccc1,train
+CCOP(=S)(OCC)Oc1cc(C)nc(n1)C(C)C,train
+CCCCCCCCCC(C)O,train
+Clc1ccc(c(Cl)c1)c2c(Cl)ccc(Cl)c2Cl ,train
+O=c2[nH]c1CCCc1c(=O)n2C3CCCCC3,test
+CCOP(=S)(OCC)SCSCC,train
+CCOc1ccc(NC(=O)C)cc1,train
+CCN(CC)c1c(cc(c(N)c1N(=O)=O)C(F)(F)F)N(=O)=O,train
+CCCCCCCO,train
+Cn1c(=O)n(C)c2nc[nH]c2c1=O,train
+CCCCC1(CC)C(=O)NC(=O)NC1=O,train
+ClC(Cl)=C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,test
+CCCCCCCC(=O)OC,train
+CCc1ccc(CC)cc1,train
+CCOP(=S)(OCC)SCSC(C)(C)C,train
+COC(=O)Nc1cccc(OC(=O)Nc2cccc(C)c2)c1,train
+ClC(=C)Cl,train
+Cc1cccc2c1Cc3ccccc32,train
+CCCCC=O,train
+N(c1ccccc1)c2ccccc2,test
+CN(C)C(=O)SCCCCOc1ccccc1,train
+CCCOP(=S)(OCCC)SCC(=O)N1CCCCC1C,test
+CCCCCCCI,train
+c1c(Cl)cccc1c2ccccc2,train
+OCCCC=C,train
+O=C2NC(=O)C1(CCC1)C(=O)N2,test
+CC(C)C1CCC(C)CC1O ,train
+CC(C)OC=O,train
+CCCCCC(C)O,train
+CC(=O)Nc1ccc(Br)cc1,train
+c1ccccc1n2ncc(N)c(Br)c2(=O),train
+COC(=O)C1=C(C)NC(=C(C1c2ccccc2N(=O)=O)C(=O)OC)C ,val
+c2c(C)cc1nc(C)ccc1c2 ,train
+CCCCCCC#C,train
+CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2 ,test
+c1ccc2c(c1)ccc3c4ccccc4ccc23,train
+CCC(C)n1c(=O)[nH]c(C)c(Br)c1=O ,train
+Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,train
+Cc1ccccc1O,train
+CC(C)CCC(C)(C)C,train
+Cc1ccc(C)c2ccccc12,train
+Cc1cc2c3ccccc3ccc2c4ccccc14,train
+CCCC(=O)C,train
+Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,train
+CCCOC(=O)CC,train
+CC34CC(O)C1(F)C(CCC2=CC(=O)C=CC12C)C3CC(O)C4(O)C(=O)CO,train
+Nc1ccc(O)cc1,train
+O=C(Cn1ccnc1N(=O)=O)NCc2ccccc2,test
+OC4=C(C1CCC(CC1)c2ccc(Cl)cc2)C(=O)c3ccccc3C4=O,val
+CCNc1nc(Cl)nc(n1)N(CC)CC,train
+NC(=O)c1cnccn1,test
+CCC(Br)(CC)C(=O)NC(N)=O,train
+Clc1ccccc1c2ccccc2Cl ,train
+O=C2CN(N=Cc1ccc(o1)N(=O)=O)C(=O)N2 ,test
+Clc2ccc(Oc1ccc(cc1)N(=O)=O)c(Cl)c2,train
+CC1(C)C2CCC1(C)C(=O)C2,train
+O=C1NC(=O)NC(=O)C1(CC=C)c1ccccc1,train
+CCCCC(=O)OCC,train
+CC(C)CCOC(=O)C,train
+O=C1N(COC(=O)CCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,train
+Clc1cccc(c1)c2cc(Cl)ccc2Cl ,train
+CCCBr,train
+CCCC1COC(Cn2cncn2)(O1)c3ccc(Cl)cc3Cl,test
+COP(=S)(OC)SCC(=O)N(C)C=O,train
+Cc1ncnc2nccnc12,train
+NC(=S)N,train
+Cc1ccc(C)cc1,train
+CCc1ccccc1CC,train
+ClC(Cl)(Cl)C(Cl)(Cl)Cl,train
+CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c3ccc(OC(F)F)cc3,test
+CCCN(=O)=O,train
+CC(C)C1CCC(C)CC1=O,val
+CCN2c1cc(Cl)ccc1NC(=O)c3cccnc23 ,train
+O=N(=O)c1c(Cl)c(Cl)ccc1,train
+CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O ,train
+c1ccc2c(c1)c3cccc4cccc2c34,val
+CCCOC(C)C,train
+Cc1cc(C)c2ccccc2c1,train
+CCC(=C(CC)c1ccc(O)cc1)c2ccc(O)cc2 ,test
+c1(C#N)c(Cl)c(C#N)c(Cl)c(Cl)c(Cl)1,train
+Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2,train
+C1OC1c2ccccc2 ,test
+CC(C)c1ccccc1,train
+CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,train
+c2(Cl)c(Cl)c(Cl)c1nccnc1c2(Cl) ,val
+C1OC(O)C(O)C(O)C1O,train
+ClCCl,train
+CCc1cccc2ccccc12,train
+COC=O,train
+Oc1ccccc1N(=O)=O,train
+Cc1c[nH]c(=O)[nH]c1=O ,train
+CC(C)C,train
+OCC1OC(C(O)C1O)n2cnc3c(O)ncnc23,test
+Oc1c(I)cc(C#N)cc1I,train
+Oc1ccc(Cl)cc1C(=O)Nc2ccc(cc2Cl)N(=O)=O,train
+CCCCC,train
+c1ccccc1O,train
+Nc3ccc2cc1ccccc1cc2c3 ,train
+Cn1cnc2n(C)c(=O)[nH]c(=O)c12 ,train
+c1ccc2cnccc2c1,test
+COP(=S)(OC)SCC(=O)N(C(C)C)c1ccc(Cl)cc1,train
+CCCCCCc1ccccc1,train
+Clc1ccccc1c2ccccc2,train
+CCCC(=C)C,train
+CC(C)C(C)C(C)C,train
+Clc1cc(Cl)c(Cl)c(Cl)c1Cl,train
+Oc1cccc(c1)N(=O)=O,train
+CCCCCCCCC=C,train
+CC(=O)OCC(COC(=O)C)OC(=O)C,train
+CCCCc1c(C)nc(nc1O)N(C)C ,train
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2,train
+c1ccncc1,train
+CCCCCCCBr,train
+Cc1ccncc1C,train
+CC34CC(O)C1(F)C(CCC2=CC(=O)CCC12C)C3CCC4(O)C(=O)CO ,train
+CCSCc1ccccc1OC(=O)NC ,train
+CCOC(=O)CC(=O)OCC,train
+CC1=CCC(CC1)C(C)=C,train
+C1Cc2ccccc2C1,test
+CC(C)(C)c1ccc(O)cc1,train
+O=C2NC(=O)C1(CC1)C(=O)N2 ,test
+Clc1cccc(I)c1,train
+Brc1cccc2ccccc12,train
+CC/C=C/C,train
+Cc1cccc(C)n1,train
+ClC=C(Cl)Cl,train
+Nc1cccc2ccccc12,train
+Cc1cccc(C)c1,train
+Oc2ncc1nccnc1n2,train
+CO,train
+CCC1(CCC(C)C)C(=O)NC(=O)NC1=O,train
+CCC(=O)C,train
+Fc1c[nH]c(=O)[nH]c1=O ,train
+Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O ,val
+Oc1cccc(O)c1,train
+CCCCCCO,train
+CCCCCCl,train
+C=CC=C,train
+CCCOC(=O)C,train
+Oc2ccc1CCCCc1c2 ,val
+NC(=O)CCl ,train
+COP(=S)(OC)Oc1cc(Cl)c(I)cc1Cl,train
+Cc1ccc(Cl)cc1,train
+CSc1nnc(c(=O)n1N)C(C)(C)C,val
+Cc1ccc(OP(=O)(Oc2cccc(C)c2)Oc3ccccc3C)cc1,test
+CCCCCC=O,train
+CCCCOC(=O)c1ccc(N)cc1,train
+O2c1cc(C)ccc1N(C)C(=O)c3cc(N)cnc23 ,train
+CC(C)=CCC/C(C)=C\CO,train
+Clc1ccc(cc1)c2ccccc2Cl ,train
+O=C1N(COC(=O)CCCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,train
+CCN(=O)=O,train
+CCN(CC(C)=C)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,train
+Clc1ccc(Cl)c(Cl)c1Cl,train
+CCCC(C)(COC(N)=O)COC(N)=O ,train
+CC(=O)C3CCC4C2CC=C1CC(O)CCC1(C)C2CCC34C ,val
+CI,train
+CC1CC(C)C(=O)C(C1)C(O)CC2CC(=O)NC(=O)C2 ,test
+O=C1N(COC(=O)CCCCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,train
+CC1=CC(=O)CC(C)(C)C1 ,train
+O=C1NC(=O)NC(=O)C1(CC)C(C)CC,train
+CCCCC(=O)CCCC,train
+CCC1(CCC(=O)NC1=O)c2ccccc2 ,val
+CCC(C)CC,train
+CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3,test
+Cc1ccccc1n3c(C)nc2ccccc2c3=O,val
+ClCC#N,train
+CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,train
+CC12CCC(=O)C=C1CCC3C2CCC4(C)C3CCC4(O)C#C ,train
+c1ccnnc1,val
+Clc1cc(Cl)c(Cl)c(Cl)c1,train
+C1C(O)CCC2(C)CC3CCC4(C)C5(C)CC6OCC(C)CC6OC5CC4C3C=C21,test
+Nc1ccccc1O,train
+CCCCCCCCC(=O)OCC,train
+COCC(=O)N(C(C)C(=O)OC)c1c(C)cccc1C ,train
+CNC(=O)Oc1ccccc1OC(C)C,train
+CCC(C)Cl,train
+Oc1ccc2ccccc2c1,train
+CC(C)Oc1cc(c(Cl)cc1Cl)n2nc(oc2=O)C(C)(C)C,train
+CCCCC#C,train
+CCCCCCCC#C,train
+Cc1ccccc1Cl,train
+CC(C)OC(C)C,train
+Nc1ccc(cc1)S(=O)(=O)c2ccc(N)cc2,val
+CNN,train
+CC#C,train
+CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,train
+CCNP(=S)(OC)OC(=CC(=O)OC(C)C)C,train
+C=CC=O,train
+O=c1[nH]cnc2nc[nH]c12 ,test
+Oc2ccc1ncccc1c2 ,train
+Fc1ccccc1,train
+CCCCl,train
+CCOC(=O)C,train
+CCCC(C)(C)C,train
+Cc1cc(C)c(C)c(C)c1C,train
+CC12CCC(CC1)C(C)(C)O2 ,val
+CCCCOC(=O)CCCCCCCCC(=O)OCCCC,train
+Clc1ccc(cc1)c2ccc(Cl)cc2 ,train
+Cc1cccnc1C,train
+CC(=C)C1CC=C(C)C(=O)C1,train
+CCOP(=S)(OCC)SCSc1ccc(Cl)cc1,train
+COc1cc(cc(OC)c1O)C6C2C(COC2=O)C(OC4OC3COC(C)OC3C(O)C4O)c7cc5OCOc5cc67,val
+c1cc2cccc3c4cccc5cccc(c(c1)c23)c54,val
+Cc1ccc(cc1N(=O)=O)N(=O)=O,train
+c1c(Br)ccc2ccccc12 ,train
+CNC(=O)Oc1cccc(N=CN(C)C)c1,train
+COc2cnc1ncncc1n2,train
+Cc3ccnc4N(C1CC1)c2ncccc2C(=O)Nc34 ,test
+CCOP(=S)(OCC)Oc1nc(Cl)n(n1)C(C)C,train
+CC(=C)C=C,train
+CC(C)=CCCC(O)(C)C=C,train
+COP(=S)(OC)Oc1ccc(SC)c(C)c1,train
+OC1CCCCC1,train
+O=C1NC(=O)NC(=O)C1(C)CC=C,train
+CC34CCC1C(CCC2CC(O)CCC12C)C3CCC4=O,val
+OCC(O)C(O)C(O)C(O)CO ,train
+Cc1ccc(cc1)c2ccccc2,train
+CCNc1nc(Cl)nc(NC(C)C)n1,train
+NC(=S)Nc1ccccc1,train
+CCCC(=O)CCC,train
+CC(=O)C(C)(C)C,train
+Oc1ccc(Cl)cc1,train
+O=C1CCCCC1,val
+Cc1cccc(N)c1,train
+ClC(Cl)(Cl)C#N,train
+CNc2cnn(c1cccc(c1)C(F)(F)F)c(=O)c2Cl,train
+CCCCCCCCC(=O)C,train
+CCN(CC)c1nc(Cl)nc(NC(C)C)n1,train
+CCOC(=O)c1ccc(N)cc1,train
+Clc1ccc(Cl)c(Cl)c1,train
+Cc3nnc4CN=C(c1ccccc1Cl)c2cc(Cl)ccc2n34,val
+Oc1ccccc1O,train
+CCN2c1ncccc1N(C)C(=O)c3cccnc23 ,train
+CSC,train
+Cc1ccccc1Br,train
+CCOC(=O)N,train
+CC(=O)OC3(CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C)C(C)=O ,val
+CC(C)C(O)C(C)C,train
+c1ccc2ccccc2c1,train
+CCNc1ccccc1,train
+O=C1NC(=O)C(N1)(c2ccccc2)c3ccccc3,train
+Cc1c2ccccc2c(C)c3ccc4ccccc4c13,test
+CCOP(=S)(OCC)SC(CCl)N1C(=O)c2ccccc2C1=O,train
+COc1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl,train
+Fc1cccc(F)c1C(=O)NC(=O)Nc2cc(Cl)c(F)c(Cl)c2F ,val
+O=C1N(COC(=O)CCCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,train
+CN(C)C(=O)Nc1ccc(Cl)cc1,train
+OC(Cn1cncn1)(c2ccc(F)cc2)c3ccccc3F,test
+CC(=O)OCC(=O)C3(O)C(CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)OC(C)=O ,train
+CCCCBr,train
+Brc1cc(Br)c(Br)cc1Br,train
+CC(C)CC(=O)C,train
+CCSC(=O)N(CC)C1CCCCC1 ,train
+COc1ccc(Cl)cc1,train
+CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,train
+CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O,train
+COP(=S)(OC)Oc1ccc(N(=O)=O)c(C)c1,train
+Ic1cccc2ccccc12,train
+OCC(O)C(O)C(O)C(O)CO,train
+CCS,train
+ClCC(Cl)Cl,train
+CN(C)C(=O)Oc1cc(C)nn1c2ccccc2,val
+NC(=O)c1ccccc1O,train
+Cc1ccccc1N(=O)=O,train
+O=C1NC(=O)NC(=O)C1(C(C)C)C(C)C,train
+CCc1ccccc1C,train
+CCCCCCCCl,train
+O=C1NC(=O)NC(=O)C1(CC)CC,train
+C(Cc1ccccc1)c2ccccc2,train
+ClC(Cl)C(Cl)Cl,train
+CCN2c1cc(OC)cc(C)c1NC(=O)c3cccnc23 ,train
+Cc1ccc2c(ccc3ccccc32)c1,train
+CCCCOC(=O)c1ccccc1C(=O)OCCCC ,train
+COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl ,train
+CCN(CC)C(=O)C(=CCOP(=O)(OC)OC)Cl,train
+CC34CCC1C(=CCc2cc(O)ccc12)C3CCC4=O,val
+CCOC(=O)c1ccccc1S(=O)(=O)NN(C=O)c2nc(Cl)cc(OC)n2,val
+COc1ccc(cc1)N(=O)=O,train
+CCCCCCCl,train
+Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl,train
+OCC1OC(CO)(OC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C1O,test
+CCCCCCCCCCCCCCCCCCCCCCCCCC,train
+CCN2c1ccccc1N(C)C(=O)c3cccnc23 ,train
+CC(Cl)Cl,train
+Nc1ccc(cc1)S(N)(=O)=O,train
+CCCN(CCC)c1c(cc(cc1N(=O)=O)C(C)C)N(=O)=O,train
+ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,train
+CCOP(=S)(NC(C)C)Oc1ccccc1C(=O)OC(C)C,train
+Clc1cccc(Cl)c1Cl,train
+ClC(Cl)(Cl)Cl,train
+O=N(=O)c1cc(Cl)c(Cl)cc1,train
+OC1CCCCCCC1,train
+CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,train
+CCOc1ccc(NC(N)=O)cc1,train
+C/C1CCC(\C)CC1,train
+c1cnc2c(c1)ccc3ncccc23,test
+COC(C)(C)C,train
+COc1ccc(C=CC)cc1,train
+CCCCCCCCCCCCCCCCO,train
+O=c1cc[nH]c(=O)[nH]1 ,train
+Nc1ncnc2nc[nH]c12 ,train
+Clc1cc(Cl)c(cc1Cl)c2cccc(Cl)c2Cl ,train
+COc1ccc(cc1)C(O)(C2CC2)c3cncnc3 ,val
+c1ccc2c(c1)c3cccc4c3c2cc5ccccc54,test
+O=C(Nc1ccccc1)Nc2ccccc2,test
+CCC1(C(=O)NC(=O)NC1=O)c2ccccc2 ,train
+Clc1ccc(cc1)c2cccc(Cl)c2Cl ,train
+CC(C)c1ccc(NC(=O)N(C)C)cc1,train
+CCN(CC)C(=O)CSc1ccc(Cl)nn1,val
+CCC(C)(C)CO,train
+CCCOC(=O)CCC,train
+Cc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O,train
+CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)c1ccccc1,train
+C1CCCCCC1,train
+CCCOC=O,train
+CC(C)c1ccccc1C,train
+Nc1cccc(Cl)c1,train
+CC(C)CC(C)C,train
+o1c2ccccc2c3ccccc13,test
+CCOC2Oc1ccc(OS(C)(=O)=O)cc1C2(C)C,train
+CN(C)C(=O)Nc1cccc(c1)C(F)(F)F,train
+c3ccc2nc1ccccc1cc2c3,train
+CC12CC(=O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,train
+OCC1OC(O)C(O)C(O)C1O,train
+Cc1cccc(O)c1,train
+CC2Cc1ccccc1N2NC(=O)c3ccc(Cl)c(c3)S(N)(=O)=O ,test
+CCC(C)C(=O)OC2CC(C)C=C3C=CC(C)C(CCC1CC(O)CC(=O)O1)C23 ,test
+O=N(=O)c1ccc(cc1)N(=O)=O,train
+CCC1(C(=O)NC(=O)NC1=O)C2=CCC3CCC2C3,test
+CCCCCCCCCC(=O)OCC,train
+CN(C)C(=O)Nc1ccccc1,train
+CCCOCC,train
+CC(C)O,train
+Cc1ccc2ccccc2c1,train
+ClC(Br)Br,train
+CCC(C(CC)c1ccc(O)cc1)c2ccc(O)cc2,train
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,train
+ClCc1ccccc1,train
+C/C=C/C=O,train
+CON(C)C(=O)Nc1ccc(Br)c(Cl)c1,train
+Cc1c2ccccc2c(C)c3ccccc13,train
+CCCCCC(=O)OC,train
+CN(C)C(=O)Nc1ccc(c(Cl)c1)n2nc(oc2=O)C(C)(C)C,train
+CC(=O)Nc1ccc(F)cc1,train
+CCc1cccc(CC)c1N(COC)C(=O)CCl ,train
+C1CCC=CC1,train
+CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,train
+c1cncnc1,train
+Clc1ccc(cc1)N(=O)=O,train
+CCC(=O)OC,train
+Clc1ccccc1N(=O)=O,train
+CCCCN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,train
+CN1CC(O)N(C1=O)c2nnc(s2)C(C)(C)C,val
+O=N(=O)c1ccccc1,train
+Ic1ccccc1,train
+CC2Nc1cc(Cl)c(cc1C(=O)N2c3ccccc3C)S(N)(=O)=O ,test
+COc1ccccc1OCC(O)COC(N)=O,train
+CCCCOCN(C(=O)CCl)c1c(CC)cccc1CC ,train
+Oc1cccc(Cl)c1Cl,train
+CCCC(=O)OC,train
+CCC(=O)Nc1ccc(Cl)c(Cl)c1,train
+Nc3nc(N)c2nc(c1ccccc1)c(N)nc2n3,test
+CCCCCC(=O)OCC,train
+OCC(O)C2OC1OC(OC1C2O)C(Cl)(Cl)Cl ,val
+CN(C=Nc1ccc(C)cc1C)C=Nc2ccc(C)cc2C,test
+COc1nc(NC(C)C)nc(NC(C)C)n1,train
+CCCCCCC=C,train
+Cc1ccc(N)cc1,train
+Nc1nccs1 ,test
+c1ccccc1(OC(=O)NC),train
+CCCC(O)CC,train
+c3ccc2c(O)c1ccccc1cc2c3 ,train
+Cc1ccc2cc3ccccc3cc2c1,train
+Cc1cccc(C)c1C,train
+CNC(=O)Oc1ccc(N(C)C)c(C)c1,train
+CCCCCCCC(C)O,train
+CN(C(=O)NC(C)(C)c1ccccc1)c2ccccc2,val
+CCCC(=O)CC,train
+Oc1c(Br)cc(C#N)cc1Br ,train
+Clc1ccc(cc1Cl)c2ccccc2 ,train
+CN(C(=O)COc1nc2ccccc2s1)c3ccccc3,test
+Oc1cccc2ncccc12 ,train
+CC1=C(SCCO1)C(=O)Nc2ccccc2,test
+CCOc2ccc1nc(sc1c2)S(N)(=O)=O ,train
+Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,train
+ClCBr,train
+CCC1(CC)C(=O)NC(=O)N(C)C1=O ,train
+CC(=O)OCC(=O)C3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,train
+NC(=O)NCc1ccccc1 ,train
+CN(C)C(=O)Nc1ccc(C)c(Cl)c1,train
+CON(C)C(=O)Nc1ccc(Cl)c(Cl)c1,train
+OC1CCCCCC1,train
+CS(=O)(=O)c1ccc(cc1)C(O)C(CO)NC(=O)C(Cl)Cl ,train
+CCCC(C)C1(CC)C(=O)NC(=S)NC1=O ,train
+CC(=O)Nc1nnc(s1)S(N)(=O)=O ,val
+Oc1ccc(cc1)N(=O)=O,train
+ClC1=C(Cl)C2(Cl)C3C4CC(C=C4)C3C1(Cl)C2(Cl)Cl,test
+C1CCOC1,train
+Nc1ccccc1N(=O)=O,train
+Clc1cccc(c1Cl)c2cccc(Cl)c2Cl,train
+CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 ,train
+Cc1c(cccc1N(=O)=O)N(=O)=O,train
+CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,train
+CCN(CC)c1nc(Cl)nc(n1)N(CC)CC,train
+ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O ,test
+c1(Br)c(Br)cc(Br)cc1,train
+OC3N=C(c1ccccc1)c2cc(Cl)ccc2NC3=O ,train
+O=C1NC(=O)NC(=O)C1(C(C)CCC)CC=C,train
+c1(O)c(C)ccc(C(C)C)c1,train
+C1SC(=S)NC1(=O),val
+Oc1ccc(c(O)c1)c3oc2cc(O)cc(O)c2c(=O)c3O ,test
+ClC1(C(=O)C2(Cl)C3(Cl)C14Cl)C5(Cl)C2(Cl)C3(Cl)C(Cl)(Cl)C45Cl,test
+CCN(CC)C(=S)SSC(=S)N(CC)CC,train
+C1CCCCC1,train
+ClC1=C(Cl)C(Cl)(C(=C1Cl)Cl)C2(Cl)C(=C(Cl)C(=C2Cl)Cl)Cl,test
+CN(C)C=Nc1ccc(Cl)cc1C,train
+CC34CCc1c(ccc2cc(O)ccc12)C3CCC4=O,val
+CCCCCCCCO,train
+CCSCC,train
+ClCCCl,train
+CCC(C)(C)Cl,train
+ClCCBr,train
+Nc1ccc(cc1)N(=O)=O,train
+OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O,val
+CCN2c1ncccc1N(CC)C(=O)c3cccnc23 ,train
+Clc1ccccc1,train
+CCCCCCCC=C,train
+Brc1ccc(I)cc1,train
+CCC(C)(O)CC,train
+CCCCCc1ccccc1,train
+NC(=O)NC1NC(=O)NC1=O ,train
+OCC(O)COC(=O)c1ccccc1Nc2ccnc3cc(Cl)ccc23,val
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,train
+CC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,train
+Clc1cccc2ccccc12,train
+CCN2c1ccccc1N(C)C(=O)c3ccccc23 ,val
+CCCCC(C)O,train
+CCCC1CCCC1,train
+CCOC(=O)c1cncn1C(C)c2ccccc2,test
+Oc1ccc(Cl)c(Cl)c1,train
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,train
+c2ccc1ocnc1c2,val
+CCCCCO,train
+CCN(CC)c1ccccc1,train
+Fc1cccc(F)c1,train
+ClCCC#N ,train
+CC(C)(C)Cc1ccccc1,train
+O=C1NC(=O)NC(=O)C1(CC)c1ccccc1,train
+Clc1ccccc1I,train
+c2ccc1[nH]nnc1c2,test
+CNC(=O)Oc1cccc2CC(C)(C)Oc12,train
+Cc1cccc(C)c1O,train
+CC(C)C(C)O,train
+c1ccccc1C(O)c2ccccc2,train
+CCCCCCCCCC(=O)OC,train
+COP(=S)(OC)Oc1ccc(cc1Cl)N(=O)=O,train
+CC(C)CBr,train
+CCI,train
+CN(C)C(=O)Oc1nc(nc(C)c1C)N(C)C,train
+CCCCCCBr,train
+CCCC(C)C,train
+Cc1c(F)c(F)c(COC(=O)C2C(C=C(Cl)C(F)(F)F)C2(C)C)c(F)c1F,val
+CCc1cccc(C)c1N(C(C)COC)C(=O)CCl ,train
+ON=Cc1ccc(o1)N(=O)=O ,train
+CC(C)C(Nc1ccc(cc1Cl)C(F)(F)F)C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,test
+Nc1nc[nH]n1,train
+BrC(Br)Br,train
+COP(=O)(OC)C(O)C(Cl)(Cl)Cl,train
+CCOP(=S)(OCC)SCn1c(=O)oc2cc(Cl)ccc12,train
+OCc1ccccc1,train
+O=c2c(C3CCCc4ccccc43)c(O)c1ccccc1o2 ,val
+Oc1ccc(Br)cc1,train
+CC(C)Br,train
+CC(C)CC(C)(C)C,train
+O=N(=O)c1cc(cc(c1)N(=O)=O)N(=O)=O,train
+CN2C(=O)CN=C(c1ccccc1)c3cc(ccc23)N(=O)=O,train
+CCC,train
+Nc1cc(nc(N)n1=O)N2CCCCC2 ,test
+Nc2cccc3nc1ccccc1cc23 ,train
+c1ccc2cc3c4cccc5cccc(c3cc2c1)c45,val
+OC(c1ccc(Cl)cc1)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,train
+C1Cc2cccc3cccc1c23,val
+CCOP(=S)(OCC)SC(CCl)N2C(=O)c1ccccc1C2=O,train
+Brc1ccc(Br)cc1,train
+Cn2c(=O)on(c1ccc(Cl)c(Cl)c1)c2=O,val
+Oc1ccc(cc1)c2ccccc2,train
+CC1=C(CCCO1)C(=O)Nc2ccccc2 ,val
+CCOC=C,train
+CCC#C,train
+COc1ncnc2nccnc12 ,train
+CCCCC(C)(O)CC,train
+Clc1ccc(Cl)cc1,train
+O=C1N(COC(=O)C)C(=O)C(N1)(c2ccccc2)c3ccccc3,train
+CSCS(=O)CC(CO)NC(=O)C=Cc1c(C)[nH]c(=O)[nH]c1=O,train
+Cc1c[nH]c2ccccc12 ,train
+COc2ncc1nccnc1n2,train
+CNC(=O)Oc1ccccc1C2OCCO2,test
+C1N(C(=O)NCC(C)C)C(=O)NC1,val
+CC#N,train
+CCOC(=O)NCCOc2ccc(Oc1ccccc1)cc2,train
+CC(=O)N(S(=O)c1ccc(N)cc1)c2onc(C)c2C ,val
+ClCC(Cl)(Cl)Cl,train
+CCCCO,train
+CC1CCCCC1NC(=O)Nc2ccccc2,test
+Clc1cc(Cl)cc(Cl)c1,train
+O=Cc1ccco1,train
+CC(C)CCO,train
+O=Cc2ccc1OCOc1c2 ,val
+CC(=C)C,train
+O=Cc1ccccc1,train
+CC(=C)C(=C)C,train
+CCOC(=O)CCN(SN(C)C(=O)Oc1cccc2CC(C)(C)Oc21)C(C)C,train
+O2c1ccccc1N(C)C(=O)c3cccnc23 ,train
+C1c2ccccc2c3ccccc13,train
+CC1CCCCC1,train
+NC(=N)NS(=O)(=O)c1ccc(N)cc1 ,train
+COC(=O)c1ccc(O)cc1,train
+CC1CCCO1,train
+CC3C2CCC1(C)C=CC(=O)C(=C1C2OC3=O)C,val
+OCC2OC(Oc1ccccc1CO)C(O)C(O)C2O,test
+CCCI,train
+CCNc1nc(NC(C)C)nc(SC)n1,train
+CCCO,train
+CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,train
+CCCC(C)O,train
+OC(C(=O)c1ccccc1)c2ccccc2,val
+Cc1ccc(O)c(C)c1,train
+Clc1cccc(c1)N(=O)=O,train
+Cc2c(N)c(=O)n(c1ccccc1)n2C,train
+Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl ,train
+ClC(=C(Cl)C(=C(Cl)Cl)Cl)Cl,train
+CCNc1nc(NC(C)(C)C)nc(SC)n1,train
+CCC(C)CCO,train
+Cc2ncc1nccnc1n2,train
+CC23Cc1cnoc1C=C2CCC4C3CCC5(C)C4CCC5(O)C#C,test
+CCCCI,train
+Brc1ccc2ccccc2c1,train
+CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CC(O)C5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,train
+FC(F)(F)c1ccccc1,train
+CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCC,train
+c1ccc2c(c1)sc3ccccc23,test
+Clc1ccc(c(Cl)c1)c2ccc(Cl)c(Cl)c2Cl ,train
+Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl ,train
+CC(=O)CC(c1ccccc1)c3c(O)c2ccccc2oc3=O ,val
+c1ccccc1C(O)C(O)c2ccccc2,train
+COC(=O)c1ccccc1C(=O)OC,train
+CCCCCCCC(=O)OCC,train
+CCSSCC,train
+CCOCCOCC,train
+Clc1cc(Cl)c(Cl)cc1Cl,train
+Nc1ccc(cc1)c2ccc(N)cc2,train
+CCCCCC=C,train
+CCCCc1c(C)nc(NCC)[nH]c1=O,val
+O=C1NC(=O)NC(=O)C1(CC)C(C)CCC,train
+Nc1ccccc1Cl,train
+COc1cccc(Cl)c1,train
+CCCCN(CC)C(=O)SCCC,train
+CCCCOC=O,train
+CC12CC(O)C3C(CCC4=CC(=O)C=CC34C)C2CCC1(O)C(=O)CO,train
+BrC(Cl)Cl,train
+CC34CC(=O)C1C(CCC2=CC(=O)CCC12C)C3CCC4(=O) ,val
+c1ccc(cc1)c2ccc(cc2)c3ccccc3,test
+Oc1ccc(C=O)cc1,train
+CBr,train
+Cc1cc(ccc1NS(=O)(=O)C(F)(F)F)S(=O)(=O)c2ccccc2,val
+CC(=O)CC(c1ccc(Cl)cc1)c2c(O)c3ccccc3oc2=O,val
+CCc1ccc2ccccc2c1,train
+Nc1c(C)c[nH]c(=O)n1 ,train
+Clc2c(Cl)c(Cl)c(c1ccccc1)c(Cl)c2Cl ,train
+c1c(NC(=O)c2ccccc2(I))cccc1,train
+Cc3cc2nc1c(=O)[nH]c(=O)nc1n(CC(O)C(O)C(O)CO)c2cc3C,val
+Fc1ccccc1Br,train
+Oc1ccc(Cl)cc1Cl,train
+CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2,train
+CN2C(=C(O)c1ccccc1S2(=O)=O)C(=O)Nc3ccccn3 ,val
+O=C1N(COC(=O)CC)C(=O)C(N1)(c2ccccc2)c3ccccc3,train
+C1CCCC1,train
+Cc1ccccc1N,train
+c1(OC)ccc(CC=C)cc1,train
+CN(C)C(=O)Nc1cccc(OC(=O)NC(C)(C)C)c1 ,train
+CC(C)C=C,train
+Oc1ccccn1,train
+CC,train
+Clc1ccccc1Cl,train
+Sc2nc1ccccc1s2 ,train
+Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl ,train
+COc2c1occc1cc3ccc(=O)oc23 ,test
+CC(=O)N,train
+Cc1cccc2ccccc12,train
+CCN(CC)C(=O)C(C)Oc1cccc2ccccc12 ,train
+CC(O)C(C)(C)C,train
+CCCC(=O)OCC,train
+CC2=CC(=O)c1ccccc1C2=O ,train
+c1ccc2c(c1)ccc3ccccc32,train
+Cc1ccnc(C)c1,train
+CCCCCCCCCO,train
+BrCBr,train
+CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,train
+Cc1ccc2cc(C)ccc2c1,train
+CCSC(=O)N(CC(C)C)CC(C)C,train
+O=N(=O)OCC(CON(=O)=O)ON(=O)=O ,train
+Nc1cccc(c1)N(=O)=O,train
+CCCCCl,train
+ClC(Cl)(Cl)C(NC=O)N1C=CN(C=C1)C(NC=O)C(Cl)(Cl)Cl ,val
+Cn2cc(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F,test
+Nc3cc2c1ccccc1ccc2c4ccccc34 ,train
+CC12CCC3C(CCc4cc(O)ccc34)C2CCC1=O,val
+CCN2c1ccccc1N(C)C(=S)c3cccnc23 ,test
+CC1CO1,test
+O=C3CN=C(c1ccccc1)c2cc(ccc2N3)N(=O)=O,train
+CCNC(=S)NCC,train
+Oc1cc(Cl)cc(Cl)c1Cl,train
+CCCCC(=O)OC,train
+Nc1ccccc1,train
+Cc1cccc2c(C)cccc12,train
+NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl ,val
+C1=Cc2cccc3cccc1c23,val
+CCCCCOC(=O)CC,train
+CCNc1nc(NC(C)C)nc(OC)n1,train
+c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,val
+CCBr,train
+CCC#CCC,train
+CC1OC(CC(O)C1O)OC2C(O)CC(OC2C)OC8C(O)CC(OC7CCC3(C)C(CCC4C3CCC5(C)C(CCC45O)C6=CC(=O)OC6)C7)OC8C ,train
+CCC(=C)C,train
+Oc1cccc2cccnc12 ,train
+C1CCc2ccccc2C1,val
+Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4 ,val
+Brc1cc(Br)cc(Br)c1,train
+COP(=S)(OC)Oc1cc(Cl)c(Cl)cc1Cl,train
+Cc1cc(=O)[nH]c(=S)[nH]1,test
+COc1cc(CC=C)ccc1O,train
+O=C1NC(=O)NC(=O)C1(C(C)C)CC=C,train
+c1cc2ccc3cccc4ccc(c1)c2c34,test
+CCOC(C)OCC,train
+CC1(C)CON(Cc2ccccc2Cl)C1=O,test
+CCCCOCCO,train
+Clc1c(Cl)c(Cl)c(N(=O)=O)c(Cl)c1Cl,train
+CC12CCC(O)CC1CCC3C2CCC4(C)C3CCC4=O,val
+FC(F)(F)c1cccc(c1)N2CC(CCl)C(Cl)C2=O,test
+c1ccc2ncccc2c1,train
+COC(=O)c1cc(O)c(O)c(O)c1 ,train
+OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F ,val
+Clc2ccc1oc(=O)[nH]c1c2,train
+Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,train
+O=C1NC(=O)C(=O)C(=O)N1 ,test
+ClCCCCl,train
+Fc1cccc(Br)c1,train
+Clc1ccc(Br)cc1,train
+CC(C)C(C)C,train
+CCC=C,train
+Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl,train
+Nc1cc[nH]c(=O)n1 ,train
+FC(F)(Cl)C(F)(Cl)Cl,train
+CCC#N,train
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl ,train
+COc1ccccc1N(=O)=O,train
+CC34CCC1C(CC=C2CC(O)CCC12C)C3CCC4=O,val
+CC12CC2(C)C(=O)N(C1=O)c3cc(Cl)cc(Cl)c3,test
+c1cc2ccc3ccc4ccc5cccc6c(c1)c2c3c4c56,test
+CCC(C)c1cc(cc(N(=O)=O)c1O)N(=O)=O ,train
+c1c(OC)c(OC)C2C(=O)OCC2c1,test
+OCC(O)CO,train
+COc1ccccc1O ,train
+CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl ,train
+Cc1c2ccccc2cc3ccccc13,train
+Cc1cc(=O)n(c2ccccc2)n1C,train
+CCCCOC,train
+Cc2cnc1cncnc1n2,train
+CCNc1nc(Cl)nc(NCC)n1 ,train
+CN(C)C(=O)C,train
+CSc1nc(nc(n1)N(C)C)N(C)C,train
+C=C,train
+CC(C)(C)CCO,train
+O=C1NC(=O)NC(=O)C1(CC)CC=C,train
+Oc1ccc(Cl)c(Cl)c1Cl,train
+COc1ccccc1,train
+c1ccc(Cl)cc1C(c2ccc(Cl)cc2)(O)C(=O)OC(C)C,train
+CC13CCC(=O)C=C1CCC4C2CCC(C(=O)CO)C2(CC(O)C34)C=O ,train
+COc2ccc(Oc1ccc(NC(=O)N(C)C)cc1)cc2,train
+CCc1ccc(C)cc1,train
+CC(C)SC(C)C,train
+O=N(=O)c1cccc(c1)N(=O)=O,train
+CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,train
+CCC1(C(C)C)C(=O)NC(=O)NC1=O ,train
+CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)CCC1(C)C2C(=O)CC34C ,train
+Cc1ncc(N(=O)=O)n1CCO,val
+Nc1ccc(Cl)cc1,train
+CCCC(C)(C)CO,train
+c1ccoc1,train
+COCCCNc1nc(NC(C)C)nc(SC)n1,train
+CN(C)C(=O)NC1CC2CC1C3CCCC23,val
+CC(C)(C)c1ccccc1,train
+CC(=O)CCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3,train
+CC(=O)OCC(=O)C3(O)CCC4C2CCC1=CC(=O)C=CC1(C)C2C(O)CC34C ,train
+CCCOC,train
+CC(C)OC(=O)C,train
+Brc1ccccc1,train
+CCOC(=O)c1ccc(O)cc1,train
+O=C1N(COC(=O)CCC)C(=O)C(N1)(c2ccccc2)c3ccccc3,train
+CCC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,train
+c1cc2ccc3ccc4ccc5ccc6ccc1c7c2c3c4c5c67,test
+O=c1[nH]cnc2[nH]ncc12 ,test
+ClC=C,train
+CN(C)C(=O)C(c1ccccc1)c2ccccc2 ,train
+BrC(Br)(Br)Br,train
+CCN2c1cc(N(C)C)cc(C)c1NC(=O)c3cccnc23 ,train
+O=C1NC(=O)c2ccccc12 ,train
+OC(c1ccc(Cl)cc1)(c2cncnc2)c3ccccc3Cl,test
+COC(=O)c1ccccc1,train
+Cn1ccc(=O)[nH]c1=O,train
+CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3 ,train
+Clc1ccc(Cl)c(c1)c2cccc(Cl)c2Cl ,train
+CCC2NC(=O)c1cc(c(Cl)cc1N2)S(N)(=O)=O,val
+CN(C)C(=O)Nc1ccc(Cl)c(Cl)c1,train
+C1CC=CC1,test
+C1(=O)NC(=O)NC(=O)C1(O)C2(O)C(=O)NC(=O)NC2(=O),test
+CCCCCCCCC,train
+Oc1ccccc1Cl,train
+c1cccc2c3c(C)cc4ccccc4c3ccc12,train
+CCOc1ccccc1,train
+CCOC(=O)C=Cc1ccccc1,train
+Cc1[nH]c(=O)n(c(=O)c1Cl)C(C)(C)C,train
+Clc1ccccc1C2=NCC(=O)Nc3ccc(cc23)N(=O)=O,train
+Cc1ccc(cc1)S(=O)(=O)N,train
+CC(OC(=O)Nc1cccc(Cl)c1)C#C,train
+CCCCCC(C)C,train
+CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,train
+CCCC1C(=O)N3N(C1=O)c2cc(C)ccc2N=C3N(C)C ,val
+CN2C(=O)CN=C(c1ccccc1)c3cc(Cl)ccc23,train
+CCC(O)C(C)C,train
+CCOP(=S)(OCC)Oc1ccc(cc1)S(C)=O ,train
+CC1(C)C2CCC1(C)C(O)C2,val
+CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1O,train
+CCCCCCC,train
+Oc1cccc2ccccc12,train
+C/C1CCCCC1\C,train
+COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O ,test
+C1Cc2c3c1cccc3cc4c2ccc5ccccc54,val
+CC(=O)C3(C)CCC4C2C=C(C)C1=CC(=O)CCC1(C)C2CCC34C,val
+CCCCCC(=O)C,train
+COP(=O)(NC(C)=O)SC ,train
+CCCCSP(=O)(SCCCC)SCCCC,train
+c1cC2C(=O)NC(=O)C2cc1,val
+NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl ,val
+CC=C(C)C,train
+Cc1ccc(C)c(C)c1,train
+Oc1cc(Cl)c(Cl)cc1Cl,train
+c1ccc2c(c1)cnc3ccccc23 ,val
+CCCC(C)(O)CC,train
+CCCCCCCC,train
+c1ccc2cc3ccccc3cc2c1,train
+NNc1ccccc1,train
+CCC=O,train
+C1CCCCCCC1,train
+O=C1NC(=O)NC(=O)C1(CC=C)CC=C,train
+ClC(Cl)Cl,train
+Sc1nccc(=O)[nH]1 ,val
+Clc1ccc(CN(C2CCCC2)C(=O)Nc3ccccc3)cc1,test
+CC1=CCCCC1,train
+CCCCC(CC)C=O,train
+COc2c1occc1c(OC)c3c(=O)cc(C)oc23 ,test
+O=C1NC(=O)NC(=O)C1(CC)CCC(C)C,train
+c1ccc2c3c(ccc2c1)c4cccc5cccc3c45,val
+CCC(CC)C=O,train
+CCCOCCC,train
+CCCCCCCCCCCCCCO,train
+Oc1c(Cl)ccc(Cl)c1Cl,train
+NC(=O)N,train
+CCCC#C,train
+Brc1cccc(Br)c1,train
+CCCCCCCCCCCCCCCCCCO,train
+CC(=O)Nc1ccccc1,train
+c1cc(O)c(O)c2OCC3(O)CC4=CC(=O)C(O)=CC4=C3c21,test
+c1nccc(C(=O)NN)c1,train
+OC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl ,train
+CC(C)CCOC=O,train
+CC(=O)c1ccccc1,train
+c2ccc1nc(ccc1c2)c4ccc3ccccc3n4 ,test
+CCOP(=O)(OCC)OCC,train
+CC2(C)C1CCC(C)(C1)C2=O,train
+COc2cnc1cncnc1n2,train
+ClC2=C(Cl)C3(Cl)C1C=CCC1C2(Cl)C3(Cl)Cl ,train
+CC(C)N(=O)=O,train
+c1ccc2c(c1)[nH]c3ccccc32,test
+OCC(O)C(O)CO,train
+CCCOC(=O)c1ccc(N)cc1,train
+CNC(=O)C=C(C)OP(=O)(OC)OC,train
+O=C1CCC(=O)N1,test
+CCC(C)C(C)C,train
+CCCCc1c(C)nc(NCC)nc1OS(=O)(=O)N(C)C ,train
+CCN2c1ncccc1N(C)C(=S)c3cccnc23 ,val
+O2c1ccccc1N(CC)C(=O)c3ccccc23 ,val
+C1CCOCC1,train
+CCCCCC#C,train
+c1cc2ccc(OC)c(CC=C(C)(C))c2oc1=O ,val
+c1cc(C)cc2c1c3cc4cccc5CCc(c45)c3cc2,val
+CCOC(=O)c1ccccc1,train
+ClCC(C)C,train
+CC34CCC1C(CCc2cc(O)ccc12)C3CCC4(O)C#C ,train
+CCCCCCCCCCCC(=O)OC,train
+CCCSCCC,train
+c1ccc2cc3cc4ccccc4cc3cc2c1,val
+CCCCCBr,train
+CCCC/C=C/C,train
+Cc1ncc(N(=O)=O)n1CCO ,val
+CCCCCC1CCCC1,train
+Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl ,train
+O=C1NC(=O)NC(=O)C1(CC)C(C)C,train
+CC(Cl)(Cl)Cl,train
+CON(C)C(=O)Nc1ccc(Cl)cc1,train
+O=C2NC(=O)C1(CCCCC1)C(=O)N2,test
+CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1 ,train
+Cc1ccc(Br)cc1,train
+CCOCC,train
+CC(C)NC(=O)N1CC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2,test
+CCCCN(CC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,train
+Cc1cc(C)c(O)c(C)c1,train
+c1ccccc1,train
+Clc1ccc(I)cc1,train
+COc1ccc(NC(=O)N(C)C)cc1Cl,train
+CC(C)N(C(=O)CCl)c1ccccc1 ,train
+C=Cc1ccccc1,train
+COCOC,train
+Cc1ccccc1C,train
+CCC(C)O,train
+Oc1ccc(O)cc1,train
+CC34CCC1C(CCc2cc(O)ccc12)C3CC(O)C4O ,train
+C1c2ccccc2c3cc4ccccc4cc13,test
+O=C1CNC(=O)N1 ,train
+c1(O)cc(O)ccc1CCCCCC,train
+C=CCS(=O)SCC=C,train
+CCOP(=S)(OCC)Oc2ccc1oc(=O)c(Cl)c(C)c1c2,val
+Cc1c(C)c2c3ccccc3ccc2c4ccccc14,train
+CCCCC(=O)OC3(C(C)CC4C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC34C)C(=O)CO,train
+O=c2[nH]c(=O)c1[nH]c(=O)[nH]c1[nH]2 ,val
+Oc1c(Cl)cc(Cl)c(Cl)c1Cl,train
+Clc1cccc(Cl)c1,train
+Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,train
+CC(C)COC=O,train
+c1ccccc1SC,train
+CCN2c1nc(C)cc(C(F)(F)F)c1NC(=O)c3cccnc23 ,train
+CCCCCC,train
+COC(=O)c1cccnc1 ,train
+NS(=O)(=O)c3cc2c(NC(Cc1ccccc1)NS2(=O)=O)cc3C(F)(F)F,val
+Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl ,train
+CC1(OC(=O)N(C1=O)c2cc(Cl)cc(Cl)c2)C=C,test
+CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,train
+c1ccc2c(c1)c3ccccc3c4ccccc24,val
+CC=C(C(=CC)c1ccc(O)cc1)c2ccc(O)cc2,val
+CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,train
+CCc1ccccn1,train
+COP(=O)(OC)OC(Br)C(Cl)(Cl)Br,train
+c1ccc(cc1)c2ccccc2,train
+Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl ,train
+CN(C)c1nc(nc(n1)N(C)C)N(C)C,train
+CC(C)CC(C)(C)O,train
+O=C2NC(=O)C1(CCCCCC1)C(=O)N2 ,test
+OCC1OC(O)(CO)C(O)C1O,train
+Cc1cc(C)cc(O)c1,train
+ClCC#CCOC(=O)Nc1cccc(Cl)c1,train
+CC(=O)Nc1ccc(Cl)cc1,train
+Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,train
+CCC(C)(C)C,train
+CNc1ccccc1,train
+C=CCC=C,train
+CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,train
+Cc1cc(cc(N(=O)=O)c1O)N(=O)=O,train
+OC3N=C(c1ccccc1Cl)c2cc(Cl)ccc2NC3=O,train
+Oc1cccc(Cl)c1,train
+Clc1cccc(Br)c1,train
+NS(=O)(=O)c2cc1c(N=CNS1(=O)=O)cc2Cl ,test
+O=C1NC(=O)NC(=O)C1(C)CC,train
+OCCOc1ccccc1,train
+C(c1ccccc1)c2ccccc2,train
+CCCCCC(O)CC,train
+CCN(Cc1c(F)cccc1Cl)c2c(cc(cc2N(=O)=O)C(F)(F)F)N(=O)=O,test
+CC(C)Nc1nc(Cl)nc(NC(C)C)n1,train
+CCCC(C)CO,train
+CCCCC(C)(C)O,train
+CCc1ccccc1,train
+O=C1NC(=O)NC(=O)C1(CC)CC=C(C)C,train
+ClC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,train
+CCC(C)C1(CC(Br)=C)C(=O)NC(=O)NC1=O ,train
+CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,train
+COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C,train
+CCOC(=O)CC,train
+CSc1nc(NC(C)C)nc(NC(C)C)n1,train
+CC(C#C)N(C)C(=O)Nc1ccc(Cl)cc1,train
+Cc1cc2ccccc2cc1C,train
+Clc1ccc(cc1)c2cc(Cl)ccc2Cl ,train
+Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl ,train
+NC(N)=NC#N ,train
+ClC(Cl)(Cl)N(=O)=O,train
+Clc1cccc(Cl)c1c2ccccc2 ,train
+COc1ccc(C=O)cc1,train
+CC(=O)Nc1ccc(cc1)N(=O)=O,train
+CCCCCCC(=O)OCC,train
+CC(=O)Nc1ccc(O)cc1,train
+c2ccc1[nH]ncc1c2 ,val
+CC5(C)OC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O5)C(=O)CO ,val
+Nc2nc1[nH]cnc1c(=O)[nH]2 ,val
+COC(=O)C,train
+CC34CCC1C(CCC2CC(=O)CCC12C)C3CCC4O ,val
+CCCC(O)C=C,train
+OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 ,val
+CCCCOCCCC,train
+CCCCCCCCCCCCO,train
+CCN2c1nc(N(C)(CCO))ccc1NC(=O)c3cccnc23 ,train
+CCCC(C)(C)O,train
+Nc1nc(=O)[nH]cc1F,train
+CCCCOc1ccc(C(=O)OCC)c(c1)N(CC)CC ,train
+CCCCCC(C)(C)O,train
+Cc1c(C)c(C)c(C)c(C)c1C,train
+CC(C)c1ccc(C)cc1O,train
+c2cnc1ncncc1n2,train
+CCOP(=S)(OCC)Oc1ccc(cc1)N(=O)=O,train
+C,train
+c2ccc1NCCc1c2 ,test
+O=N(=O)c1cccc2ccccc12,train
+CCC(C)C(=O)C,train
+Nc1nc(O)nc2nc[nH]c12 ,train
+OC(CC(c1ccccc1)c3c(O)c2ccccc2oc3=O)c4ccc(cc4)c5ccc(Br)cc5 ,test
+CN(=O)=O,train
+CC(C)N(C(C)C)C(=O)SCC(Cl)=C(Cl)Cl,train
+C=CCCC=C,train
+c2ccc1[nH]ccc1c2,train
+CC34CCC1C(CCC2=CC(=O)CCC12C)C3CCC4=O,val
+CCCCC=C,train
+Cc1cccc(C)c1NC(=O)c2cc(c(Cl)cc2O)S(N)(=O)=O,train
+CCC1CCCCC1,train
+CCCCCCCC(=O)C,train
+COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3,test
+CC(C)OC(=O)Nc1cccc(Cl)c1,train
+CCN2c1nc(Cl)ccc1N(C)C(=O)c3cccnc23 ,train
+CNC(=O)Oc1cccc2ccccc12,train
+C#C,train
+Cc1cncc(C)c1,train
+C1C=CCC=C1,test
+CCOC(=O)N(C)C(=O)CSP(=S)(OCC)OCC,train
+CC(O)c1ccccc1,train
+CC(Cl)CCl,train
+CCCC=C(CC)C=O,train
+CCOP(=S)(OCC)SCCSCC,train
+CC(=O)OC3(C)CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,train
+Clc1ccc(cc1)c2c(Cl)cccc2Cl ,train
+Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2,val
+Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl,train
+c1(C(=O)OCCCCCC(C)(C))c(C(=O)OCCCCCC(C)(C))cccc1,train
+CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,train
+Cc1cc(C)cc(C)c1,train
+CCCCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCCC ,train
+CCCCCCCCCCCCCCCO,train
+Clc1cccc(Cl)c1c2c(Cl)cccc2Cl ,train
+O=C1NC(=O)NC(=O)C1(C)C,train
+CC(C)I,train
+O=N(=O)c1ccccc1N(=O)=O,train
+CC(C)C(=O)C,train
+CCCCCCCCCCCCCCCC,train
+CC12CCC(CC1)C(C)(C)O2,val
+Cc2cccc3sc1nncn1c23 ,test
+CCCCCCC(=O)C,train
+CCCCCCCCC(=O)OC,train
+Fc1ccc(F)cc1,train
+O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13,test
+CCCN(CCC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,train
+CCO,train
+O=C2NC(=O)C1(CCCC1)C(=O)N2,test
+c1c(NC(=O)OC(C)C(=O)NCC)cccc1,train
+CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C ,train
+CN(C)C(=O)NC1CCCCCCC1,train
+ClC1(C2(Cl)C3(Cl)C4(Cl)C5(Cl)C1(Cl)C3(Cl)Cl)C5(Cl)C(Cl)(Cl)C24Cl,test
+CCCCCCCCBr,train
+CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12,test
+CN(C)c2c(C)n(C)n(c1ccccc1)c2=O ,train
+CCC(O)CC,train
+Cc1ccc(cc1)N(=O)=O,train
+CC(C)CCCO,train
+CC34CCC1C(CCC2=CC(=O)CCC12O)C3CCC4(O)C#C,train
+CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c2ccc(Br)cc2 ,train
+Nc2cnn(c1ccccc1)c(=O)c2Cl,train
+CCC(C)(C)O,train
+Cc1ccc(O)cc1,train
+CCOC=O,train
+CN(C)c1ccccc1,train
+C1CCC2CCCCC2C1,test
+CCCCS,train
+c1ccc2c(c1)c3cccc4ccc5cccc2c5c43,test
+ClC(=C(Cl)Cl)Cl,train
+CCC(=O)CC,train
+C=CC#N,train
+CC1CC2C3CC(F)C4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,train
+CCCCC(=O)C,train
+CCNc1nc(NC(C)(C)C)nc(OC)n1,train
+CCCCC(C)CC,train
+BrCCBr,train
+CNC(=O)Oc1ccccc1C(C)C,train
+O=C1NCCN1c2ncc(s2)N(=O)=O,test
+C1c2ccccc2c3ccc4ccccc4c13,val
+COc1ccccc1Cl,train
+COP(=S)(OC)Oc1cc(Cl)c(Br)cc1Cl,train
+ClC(Cl)CC(=O)NC2=C(Cl)C(=O)c1ccccc1C2=O,train
+ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 ,train
+COC(=O)C=C,train
+CN(C)C(=O)Nc2ccc(Oc1ccc(Cl)cc1)cc2,train
+N(=Nc1ccccc1)c2ccccc2,val
+CC(C)c1ccc(C)cc1,train
+Oc1c(Cl)cccc1Cl,train
+OCC2OC(OC1(CO)OC(CO)C(O)C1O)C(O)C(O)C2O ,val
+OC1C(O)C(O)C(O)C(O)C1O,train
+Cn2c(=O)n(C)c1ncn(CC(O)CO)c1c2=O,train
+OCC(NC(=O)C(Cl)Cl)C(O)c1ccc(cc1)N(=O)=O,train
+CCC(O)(CC)CC,train
+CC45CCC2C(CCC3CC1SC1CC23C)C4CCC5O,val
+Brc1ccccc1Br,train
+Oc1c(Cl)cc(Cl)cc1Cl,train
+CCCN(CCC)c1c(cc(cc1N(=O)=O)S(N)(=O)=O)N(=O)=O,train
+C2c1ccccc1N(CCF)C(=O)c3ccccc23 ,val
+CC(C)C(=O)C(C)C,train
+O=C1NC(=O)NC(=O)C1(C(C)C)CC=C(C)C,train
+c1c(O)C2C(=O)C3cc(O)ccC3OC2cc1(OC),val
+Cn1cnc2n(C)c(=O)n(C)c(=O)c12,train
+CC(=O)SC4CC1=CC(=O)CCC1(C)C5CCC2(C)C(CCC23CCC(=O)O3)C45,test
+Cc1ccc(O)cc1C,train
+O(c1ccccc1)c2ccccc2,train
+Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl ,train
+NC(=O)c1cccnc1 ,train
+Sc1ccccc1,train
+CNC(=O)Oc1cc(C)cc(C)c1,train
+ClC1CC2C(C1Cl)C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,val
+CSSC,train
+NC(=O)c1ccccc1,train
+Clc1ccccc1Br,train
+COC(=O)c1ccccc1OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O,val
+CCCCC(O)CC,train
+CCN2c1nc(C)cc(C)c1NC(=O)c3cccnc23 ,train
+Oc1cc(Cl)cc(Cl)c1,train
+Cc1cccc2c1ccc3ccccc32,train
+CCCCC(CC)CO,train
+CC(C)N(C(C)C)C(=O)SCC(=CCl)Cl,train
+Cc1ccccc1,train
+Clc1cccc(n1)C(Cl)(Cl)Cl,train
+C1CCC=CCC1,test
+CN(C)C(=S)SSC(=S)N(C)C ,train
+COC1=CC(=O)CC(C)C13Oc2c(Cl)c(OC)cc(OC)c2C3=O,val
+CCCCCCCCCCO,train
+CCC(C)(C)CC,train
+CNC(=O)C(C)SCCSP(=O)(OC)(OC),train
+Oc1cc(Cl)c(Cl)c(Cl)c1Cl,train
+CCCC=O,train
+CC4CC3C2CCC1=CC(=O)C=CC1(C)C2(F)C(O)CC3(C)C4(O)C(=O)COC(C)=O ,train
+CCCC,train
+COc1ccccc1O,train
+CC1CC2C3CCC(O)(C(=O)C)C3(C)CC(O)C2(F)C4(C)C=CC(=O)C=C14,train
+ClC(Cl)C(Cl)(Cl)Cl,train
+CCOC(=O)c1ccccc1C(=O)OCC,train
+CC(C)CO,train
+CC(C)Cc1ccccc1,train
+ICI,train
+CCCC(O)CCC,train
+CCCCCOC(=O)C,train
+Oc1c(Cl)c(Cl)cc(Cl)c1Cl,train
+CCCc1ccccc1,train
+FC(F)(Cl)C(F)(F)Cl,train
+CC=CC=O,train
+CN(C)C(=O)N(C)C ,train
+Cc1cc(C)c(C)cc1C,train
+CC(=O)OC3(CCC4C2CCC1=CC(=O)CCC1C2CCC34C)C#C,train
+CCOP(=S)(OCC)N2C(=O)c1ccccc1C2=O,train
+c1ccccc1NC(=O)c2c(O)cccc2,train
+CCN(CC)C(=S)SCC(Cl)=C,train
+ClCC,train
+CC(=O)Nc1cc(NS(=O)(=O)C(F)(F)F)c(C)cc1C,train
+O=C(C=CC=Cc2ccc1OCOc1c2)N3CCCCC3,test
+CC/C=C\C,train
+CNC(=O)ON=C(CSC)C(C)(C)C ,train
+O=C2NC(=O)C1(CCCCCCC1)C(=O)N2,test
+c1(C(C)(C)C)cc(C(C)(C)C)cc(OC(=O)NC)c1,train
+Oc2cc(O)c1C(=O)CC(Oc1c2)c3ccc(O)c(O)c3,test
+O=C(c1ccccc1)c2ccccc2,test
+CCCCCCCCCCCCCCCCCCCC,train
+N(Nc1ccccc1)c2ccccc2 ,test
+CCC(CC)CO,train
+Oc1ccncc1,train
+Cl\C=C/Cl,train
+CC1CCCC1,train
+CC(C)CC(C)O,train
+O2c1ccc(N)cc1N(C)C(=O)c3cc(C)ccc23 ,val
+CC(C)(C)CO,train
+CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n2cncn2,test
+Cc1cc(no1)C(=O)NNCc2ccccc2,test
+CC=C,train
+Oc1ccc(Cl)cc1Cc2cc(Cl)ccc2O,train
+CCOC(=O)Nc2cccc(OC(=O)Nc1ccccc1)c2 ,train
+O=C1c2ccccc2C(=O)c3ccccc13,test
+CCCCCCC(C)O,train
+CC1=C(C(=O)Nc2ccccc2)S(=O)(=O)CCO1,test
+CCCCc1ccccc1,train
+O=C1NC(=O)C(=O)N1 ,val
+COP(=S)(OC)Oc1ccc(Sc2ccc(OP(=S)(OC)OC)cc2)cc1,val
+NS(=O)(=O)c1cc(ccc1Cl)C2(O)NC(=O)c3ccccc23,val
+CC(C)COC(=O)C,train
+CC(C)C(C)(C)C,train
+Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl ,train
+N#Cc1ccccc1C#N,train
+Cc1cccc(c1)N(=O)=O,train
+FC(F)(F)C(Cl)Br ,train
+CNC(=O)ON=C(SC)C(=O)N(C)C,train
+CCSCCSP(=S)(OC)OC,train
+CCC(C)C,train
+COP(=O)(OC)OC(=CCl)c1cc(Cl)c(Cl)cc1Cl,train

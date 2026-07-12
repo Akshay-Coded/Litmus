@@ -1,0 +1,22 @@
+# Web Framework & Visualization
+streamlit
+rdkit
+matplotlib
+seaborn
+
+# Core Machine Learning & Deep Learning
+torch
+torch-geometric
+numpy
+pandas
+scikit-learn
+
+# Notebooks
+jupyter
+ipykernel
+nbformat
+nbclient
+
+# Linting
+pylint
+ruff

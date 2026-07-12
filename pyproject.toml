@@ -1,0 +1,52 @@
+[tool.ruff]
+line-length = 100
+target-version = "py313"
+
+[tool.ruff.lint.per-file-ignores]
+# Notebooks need sys.path.append()/os.chdir() before their project imports.
+"notebooks/*.ipynb" = ["E402"]
+
+[tool.pylint.main]
+# Notebooks aren't valid pylint targets natively; lint src/ and app.py.
+ignore-paths = ["^venv/.*$"]
+
+[tool.pylint."messages control"]
+# This project deliberately writes terse code with comments only when the
+# WHY is non-obvious (see CLAUDE conventions) -- docstrings on every
+# module/function/class would fight that style, not enforce it. Short
+# idiomatic ML names (df, x, e, i, j) are also intentional, not a defect.
+disable = [
+    "missing-module-docstring",
+    "missing-function-docstring",
+    "missing-class-docstring",
+    "invalid-name",
+    # RDKit is a C extension; pylint can't introspect it, so every
+    # Chem.MolFromSmiles/DataStructs.BulkTanimotoSimilarity/etc. call
+    # false-positives as "no member" -- verified real at runtime throughout.
+    "no-member",
+    "c-extension-no-member",
+    # Training loops and Streamlit render functions are naturally long
+    # (many hyperparams, many UI elements) -- splitting them to satisfy an
+    # arbitrary threshold would be premature abstraction, not a real fix.
+    "too-many-locals",
+    "too-many-statements",
+    "too-many-branches",
+    "too-many-arguments",
+    "too-many-positional-arguments",
+    # SMILES strings and descriptive UI/docstring text legitimately exceed
+    # 100 chars; consistent with the ruff config not enforcing E501 either.
+    "line-too-long",
+    # esol_*.py and tox21_*.py deliberately mirror each other as parallel
+    # files (see rename-overhaul plan) instead of a shared abstraction for
+    # two properties -- the resulting duplication is the intended tradeoff.
+    "duplicate-code",
+    # `import torch.nn as nn` is the overwhelming PyTorch ecosystem
+    # convention; `from torch import nn` would be the actual outlier.
+    "consider-using-from-import",
+    # get_dataloaders()'s own train_loader/val_loader/test_loader names
+    # are intentionally reused in its __main__ demo block for readability.
+    "redefined-outer-name",
+]
+
+[tool.pylint.format]
+max-line-length = 100
